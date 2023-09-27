@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-//int welcome_to_coffee_shop(){
+int welcome_to_coffee_shop(){
 
 #define COFFEE_PRICE 2.5
 #define TEA_PRICE 2.0
 #define SMOOTHIE_PRICE 3.0
 
-    int main(){
+//    int main(){
         int numCOffees = 0, numTeas = 0, numSmoothies = 0;
         float totalCost;
         char choice;
